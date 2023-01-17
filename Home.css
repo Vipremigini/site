@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("/images/49c778fd221c90783945bdb51c1f81f86400b91832fa040993a439a59d99648dbc591a5e89d821a24d6ccda661fbe89ed706598e1ce5980dd16688_1280.jpg?rand=5671");
+  background-image: url("images/49c778fd221c90783945bdb51c1f81f86400b91832fa040993a439a59d99648dbc591a5e89d821a24d6ccda661fbe89ed706598e1ce5980dd16688_1280.jpg?rand=5671");
 }
 
 .u-section-1 .u-sheet-1 {
@@ -14,7 +14,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 400px;
-  background-image: url("/images/CubeSat_splash-removebg-preview1.png");
+  background-image: url("images/CubeSat_splash-removebg-preview1.png");
   background-position: 50% 50%;
 }
 
@@ -86,7 +86,7 @@
     min-height: 239px;
   }
 } .u-section-2 {
-  background-image: url("/images/e3f88cb99b96d86977bdc12a1e04af336117ca70fdf6459bdec98cca489d513c53769ef4cc33580c8558a33d7bb3398edcd66e117b71e436f1ec31_1280.jpg");
+  background-image: url("images/e3f88cb99b96d86977bdc12a1e04af336117ca70fdf6459bdec98cca489d513c53769ef4cc33580c8558a33d7bb3398edcd66e117b71e436f1ec31_1280.jpg");
   background-position: 50% 50%;
 }
 
@@ -227,7 +227,7 @@
     font-weight: normal;
   }
 } .u-section-3 {
-  background-image: url("/images/e425bf03a7ff4775375a0bf1bf605e36ecc63dec4e70f85b14389a2e22056f373bd222a48b97c0fbe7da0b61898948682f8a30779c5bae930a9128_1280.jpg");
+  background-image: url("images/e425bf03a7ff4775375a0bf1bf605e36ecc63dec4e70f85b14389a2e22056f373bd222a48b97c0fbe7da0b61898948682f8a30779c5bae930a9128_1280.jpg");
   background-position: 50% 50%;
 }
 
